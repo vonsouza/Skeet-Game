@@ -14,7 +14,7 @@ project folder. Select the main module inside the hunter folder and click the "r
 
 ## Project Structure
 ---
-The project files and folders are organized as just one 
+The project files and folders are organized as just one file for a better explanation of the program, so all the classes were placed in a single file
 
 
 ## Required Technologies
